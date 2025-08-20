@@ -4,4 +4,4 @@ git config --global user.email "abc@gmail.com"
 git init (cmd for intializing git repository)
 git status (for untracked files)
 git add -A (cmd for adding all untracked files to staging area)
-git commit -m "commit mssg"(comd for adding all staged files to local repository)
+git commit -m "commit mssg"(comd for adding all staged files to local repositorygi)
